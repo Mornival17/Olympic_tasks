@@ -1,0 +1,5 @@
+﻿  ОЛИМПИАДА_1.cpp
+C:\Users\ПК\Desktop\С++\ОЛИМПИАДА_1\ОЛИМПИАДА_1.cpp(211,5): warning C4305: =: усечение из "double" в "float"
+C:\Users\ПК\Desktop\С++\ОЛИМПИАДА_1\ОЛИМПИАДА_1.cpp(212,5): warning C4305: =: усечение из "double" в "float"
+C:\Users\ПК\Desktop\С++\ОЛИМПИАДА_1\ОЛИМПИАДА_1.cpp(214,44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ОЛИМПИАДА_1.vcxproj -> C:\Users\ПК\Desktop\С++\ОЛИМПИАДА_1\x64\Debug\ОЛИМПИАДА_1.exe
