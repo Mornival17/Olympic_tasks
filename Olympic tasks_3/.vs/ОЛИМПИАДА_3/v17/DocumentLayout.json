@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6110A5-D044-45DE-8F6A-EB012912F7F7}|\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.vcxproj|C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB6110A5-D044-45DE-8F6A-EB012912F7F7}|\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.vcxproj|solutionrelative:\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp",
+              "RelativeDocumentMoniker": "\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp",
+              "ToolTip": "C:\\Users\\\u041F\u041A\\Desktop\\\u0421\u002B\u002B\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3\\\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp",
+              "RelativeToolTip": "\u041E\u041B\u0418\u041C\u041F\u0418\u0410\u0414\u0410_3.cpp",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAUwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T19:03:23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
